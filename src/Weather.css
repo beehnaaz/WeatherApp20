@@ -1,3 +1,29 @@
-.test {
-  color: brown;
+.Weather {
+  font-family: arial, sans-serif;
+  border: 1px solid #dadde1;
+  padding: 16px;
+  border-radius: 4px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 1300;
+  margin: 30px;
+  line-height: 29px;
+  color: black;
+  font-family: arial, sans-serif;
+}
+
+ul {
+}
+
+li {
+  font-size: 16px;
+  font-weight: 200px;
+  line-height: 19px;
+  list-style: none;
+  color: rgb(31, 30, 30);
+}
+form {
+  margin: 30px;
 }
